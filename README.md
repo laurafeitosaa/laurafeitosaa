@@ -6,9 +6,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-feitosa-239864255/)
 
 
-![Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=Spacefoxehjs&show_icons=true&theme=radical)
+<div alinhar = "centro">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Spacefoxehjs&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Laura Feitosa github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spacefoxehjs&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spacefoxehjs&layout=compact)](https://github.com/Spacefoxehjs/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia 
 
